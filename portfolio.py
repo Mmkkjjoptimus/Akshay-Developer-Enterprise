@@ -72,4 +72,4 @@ selected = option_menu(
 
 # Display a brief introduction
 st.write("Welcome to my portfolio. Here are some of the projects I've worked on:")
-st.wrtie(''' HELLO''')
+st.wrtie('HELLO')
