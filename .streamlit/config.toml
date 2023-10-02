@@ -1,0 +1,9 @@
+[theme]
+primaryColor = '#ffffff'  # Set the primary color to white
+backgroundColor = '#ffffff'  # Set the background color to white
+secondaryBackgroundColor = '#f0f0f0'  # Set the secondary background color (e.g., for widgets) to a light gray
+textColor = '#000000'  # Set the text color to black
+font = 'sans-serif'  # Specify the font family (e.g., sans-serif)
+
+[server]
+headless = true
