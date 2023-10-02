@@ -11,11 +11,11 @@ body {
 </style>
 """
 # Set the theme to "light"
-st.set_page_config(
-    page_title="Akshay Developer & Enterprise",
-    page_icon=":rocket:",
-    layout="wide",  # You can adjust the layout as needed
-)
+# st.set_page_config(
+#     page_title="Akshay Developer & Enterprise",
+#     page_icon=":rocket:",
+#     layout="wide",  # You can adjust the layout as needed
+# )
 hide_streamlit_style = """
             <style>
             #MainMenu {visibility: hidden;}
