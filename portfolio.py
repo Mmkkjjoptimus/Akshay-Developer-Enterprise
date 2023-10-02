@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-st.set_page_config(page_title = "Akshay Developer & Enterprise",page_icon="\U0001F3E2",layout="wide")
+st.set_page_config(page_title = "Akshay Developer & Enterprise",layout="wide")
 # Custom CSS to set a light theme with a white background
 custom_css = """
 <style>
